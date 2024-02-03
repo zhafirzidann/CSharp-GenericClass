@@ -1,0 +1,15 @@
+E:\FAUZAN\PELAJARAN SEMESTER 2\Pemograman\pemograman 2\Jadwal generic\Jadwal_Generic\Jadwal_Generic\bin\Debug\Jadwal_Generic.exe.config
+E:\FAUZAN\PELAJARAN SEMESTER 2\Pemograman\pemograman 2\Jadwal generic\Jadwal_Generic\Jadwal_Generic\bin\Debug\Jadwal_Generic.exe
+E:\FAUZAN\PELAJARAN SEMESTER 2\Pemograman\pemograman 2\Jadwal generic\Jadwal_Generic\Jadwal_Generic\bin\Debug\Jadwal_Generic.pdb
+E:\FAUZAN\PELAJARAN SEMESTER 2\Pemograman\pemograman 2\Jadwal generic\Jadwal_Generic\Jadwal_Generic\obj\Debug\Jadwal_Generic.csproj.AssemblyReference.cache
+E:\FAUZAN\PELAJARAN SEMESTER 2\Pemograman\pemograman 2\Jadwal generic\Jadwal_Generic\Jadwal_Generic\obj\Debug\Jadwal_Generic.csproj.SuggestedBindingRedirects.cache
+E:\FAUZAN\PELAJARAN SEMESTER 2\Pemograman\pemograman 2\Jadwal generic\Jadwal_Generic\Jadwal_Generic\obj\Debug\Jadwal_Generic.csproj.CoreCompileInputs.cache
+E:\FAUZAN\PELAJARAN SEMESTER 2\Pemograman\pemograman 2\Jadwal generic\Jadwal_Generic\Jadwal_Generic\obj\Debug\Jadwal_Generic.exe
+E:\FAUZAN\PELAJARAN SEMESTER 2\Pemograman\pemograman 2\Jadwal generic\Jadwal_Generic\Jadwal_Generic\obj\Debug\Jadwal_Generic.pdb
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Pemrograman\NO 1\Jadwal_Generic\Jadwal_Generic\bin\Debug\Jadwal_Generic.exe.config
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Pemrograman\NO 1\Jadwal_Generic\Jadwal_Generic\bin\Debug\Jadwal_Generic.exe
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Pemrograman\NO 1\Jadwal_Generic\Jadwal_Generic\bin\Debug\Jadwal_Generic.pdb
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Pemrograman\NO 1\Jadwal_Generic\Jadwal_Generic\obj\Debug\Jadwal_Generic.csproj.AssemblyReference.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Pemrograman\NO 1\Jadwal_Generic\Jadwal_Generic\obj\Debug\Jadwal_Generic.csproj.CoreCompileInputs.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Pemrograman\NO 1\Jadwal_Generic\Jadwal_Generic\obj\Debug\Jadwal_Generic.exe
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Pemrograman\NO 1\Jadwal_Generic\Jadwal_Generic\obj\Debug\Jadwal_Generic.pdb
